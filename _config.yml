@@ -8,12 +8,12 @@ highlighter: rouge
 # Themes are encouraged to use these universal variables
 # so be sure to set them if your theme uses them.
 #
-title : Blue Ham
+title : Socio-technical coordination
 author :
-  name : Marisa Carlos
-  email : mbc96@cornell.edu
-  github : mbcarlos
-  twitter : MarisaBriCarlos
+  name : Pedro Seguel
+  other : 
+  github : ppseguel
+  twitter : ppseguel
 
 production_url : http://marisabriana.github.io
 
