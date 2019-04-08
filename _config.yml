@@ -8,12 +8,12 @@ highlighter: rouge
 # Themes are encouraged to use these universal variables
 # so be sure to set them if your theme uses them.
 #
-title : Socio-technical coordination
+title : Pedro Seguel Varas
 author :
   name : Pedro Seguel
-  other : 
-  github : ppseguel
-  twitter : ppseguel
+  email :
+  github : https://github.com/ppseguel/
+  twitter : https://twitter.com/ppsegue
 
 production_url : http://marisabriana.github.io
 
