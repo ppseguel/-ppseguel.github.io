@@ -18,14 +18,14 @@ Pedro is a Master Student at UT Austin, and soon will start his PhD at McGill Un
 
     <div class="row-fluid">
         <div class="span5">
-            Blue Ham<br/>
-            Email: WOOFWOOF@goodboy.com<br/>
+            Pedro Seguel<br/>
+            Email: ppseguel@utexas.edu<br/>
         </div>
 
         <div class="span2">
         <a href="../assets/headshot.jpg">
             <img src="../assets/headshot.jpg"
-                  title="Blue Ham" alt="Blue Ham"/></a>
+                  title="Pedro Seguel" alt="Pedro Seguel"/></a>
         </div>
     </div>
 </div>
