@@ -4,7 +4,7 @@ title: Projects
 description: Pedro's projects
 ---
 
-
+Here are some sample projects of my work as a Master Student at UT Austin.
 
 #### <u>Data workflow: Academy awards demographics and popularity</u>
 <b>Tools used: SQL, Python, Tableau</b>
@@ -17,7 +17,6 @@ description: Pedro's projects
 3. <i>Analyze relations between actors’ characteristics (race/ethnicity, sexual orientation, religion and social media popularity) and movie’s popularity scores(metacritic ratings,imdb score)</i>
 
 <b>Team members: Gaurav Gul Lalwani </b>
-
 
 [click here for the report of our project]({{ BASE_PATH}}/pages/working_papers/Datawrangling.pdf)
 
