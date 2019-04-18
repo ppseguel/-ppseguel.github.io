@@ -12,8 +12,8 @@ description: Pedro's projects
 2. Analyze the relationship between award winning movies in terms of IMDB recommendation (number of user reviews and IMDB rating scores) and social media popularity (facebook likes for the movie).
 3. Analyze relations between actors’ characteristics (race/ethnicity, sexual orientation, religion and social media popularity) and movie’s popularity scores(metacritic ratings,imdb score)*
 
-**<pre>Tools used: SQL, Python, Tableau<pre>**
-**Skills: Data wrangling, relational databases, visualization**
+<p>Tools used: SQL, Python, Tableau<p>
+*Skills: Data wrangling, relational databases, visualization*
 
 [click here for the report of our project]({{ BASE_PATH}}/pages/working_papers/Datawrangling.pdf)
 
