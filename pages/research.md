@@ -12,9 +12,9 @@ description: Pedro's projects
 2. Analyze the relationship between award winning movies in terms of IMDB recommendation (number of user reviews and IMDB rating scores) and social media popularity (facebook likes for the movie).
 3. Analyze relations between actors’ characteristics (race/ethnicity, sexual orientation, religion and social media popularity) and movie’s popularity scores(metacritic ratings,imdb score)
 
-<b>Tools used: SQL, Python, Tableau
+<b>Tools used: SQL, Python, Tableau<b>
 
-Skills: Data wrangling, relational databases, visualization<b>*
+<b>Skills: Data wrangling, relational databases, visualization<b>*
 
 [click here for the report of our project]({{ BASE_PATH}}/pages/working_papers/Datawrangling.pdf)
 
@@ -22,9 +22,9 @@ Skills: Data wrangling, relational databases, visualization<b>*
 *We built an interactive visualization tool, which affords users to explore and analyze interactive network graphs of conflict of interest between industry and medical publications.
 This project supports the development of data visualization tools for Conflict Metrics, a broader initiative that aims to help researchers, policy-makers, providers, and patients to rethink conflicts of interest over industry funding of clinical research. Also, Conflict Metrics is the public-facing portal for data associated with Dr. Scott Graham's research on conflicts of interest in health and medicine. This site is devoted to the provision of public access to biomedical research sponsorship and funding data.
 
-<b>Tools used: R{Shiny App, igraph, VizNetwork}, SQL
+<b>Tools used: R{Shiny App, igraph, VizNetwork}, SQL<b>
 
-Skills: Data wrangling, Network Analysis, visualization<b>*
+<b>Skills: Data wrangling, Network Analysis, visualization<b>*
 
 [<a href="http://129.114.17.166/visnetwork/">click here to try the prototype</a>]
 
