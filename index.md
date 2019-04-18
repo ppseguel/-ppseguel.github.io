@@ -37,6 +37,7 @@ I'm interested in collaborative technologies mainly applied to Digital Economy a
           <li><a href="{{ BASE_PATH }}/assets/CV.pdf">cv</a></li>
           <li><a href="https://github.com/ppseguel">GitHub</a></li>
           <li><a href="https://twitter.com/ppseguel">Twitter (@ppseguel)</a></li>
+          <li><a href="https://www.linkedin.com/in/ppseguel/">LikedIn (@ppseguel)</a></li>
       </ul>
   </div>
 </div>
