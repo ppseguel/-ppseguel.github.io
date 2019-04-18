@@ -21,7 +21,10 @@ description: Pedro's projects
 *We built an interactive visualization tool, which affords users to explore and analyze interactive network graphs of conflict of interest between industry and medical publications.
 This project supports the development of data visualization tools for Conflict Metrics, a broader initiative that aims to help researchers, policy-makers, providers, and patients to rethink conflicts of interest over industry funding of clinical research. Also, Conflict Metrics is the public-facing portal for data associated with Dr. Scott Graham's research on conflicts of interest in health and medicine. This site is devoted to the provision of public access to biomedical research sponsorship and funding data.*
 
-[click here to try the prototype](href="https://www.linkedin.com/in/ppseguel/")
+[<a href="http://www.yahoo.com">click here to try the prototype</a>]
+
+
+
 
 #### <u>Recommending industry jobs with machine learning</u>
 *We plan to apply machine learning (ML) techniques using job advertisement and recruitment data to enhance the search strategy of candidates and help them to identify the gap between the job post requirement and their current ability. We expand current research by focusing on the role of the predictive character that hard and soft skills have over specific industry jobs among the same job domain. We extend prior research on job market analysis by using automated techniques of ML, using the soft skill in our dictionary, and by proposing a user interface for job-seekers.*
