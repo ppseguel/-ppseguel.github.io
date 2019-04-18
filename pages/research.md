@@ -21,9 +21,7 @@ description: Pedro's projects
 *We built an interactive visualization tool, which affords users to explore and analyze interactive network graphs of conflict of interest between industry and medical publications.
 This project supports the development of data visualization tools for Conflict Metrics, a broader initiative that aims to help researchers, policy-makers, providers, and patients to rethink conflicts of interest over industry funding of clinical research. Also, Conflict Metrics is the public-facing portal for data associated with Dr. Scott Graham's research on conflicts of interest in health and medicine. This site is devoted to the provision of public access to biomedical research sponsorship and funding data.*
 
-[<a href="http://www.yahoo.com">click here to try the prototype</a>]
-
-
+[<a href="http://129.114.17.166/visnetwork/">click here to try the prototype</a>]
 
 
 #### <u>Recommending industry jobs with machine learning</u>
