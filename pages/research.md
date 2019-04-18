@@ -7,10 +7,10 @@ description: Pedro's projects
 
 
 #### <u>Data workflow: Academy awards demographics and popularity</u>
-<i>This project explores the relationship between data from academy awards winners for best actor/actress and movies. More specifically our goals are to:
-1. Analyze the relationship between social media popularity of oscar winning actors/actresses (Facebook likes for actors/actresses) and their social demographics (race/ethnicity, sexual orientation and religion).
-2. Analyze the relationship between award winning movies in terms of IMDB recommendation (number of user reviews and IMDB rating scores) and social media popularity (facebook likes for the movie).
-3. Analyze relations between actors’ characteristics (race/ethnicity, sexual orientation, religion and social media popularity) and movie’s popularity scores(metacritic ratings,imdb score)</i>
+<i>This project explores the relationship between data from academy awards winners for best actor/actress and movies. More specifically our goals are to:</i>
+1. <i>Analyze the relationship between social media popularity of oscar winning actors/actresses (Facebook likes for actors/actresses) and their social demographics (race/ethnicity, sexual orientation and religion).</i>
+2. <i>Analyze the relationship between award winning movies in terms of IMDB recommendation (number of user reviews and IMDB rating scores) and social media popularity (facebook likes for the movie).</i>
+3. <i>Analyze relations between actors’ characteristics (race/ethnicity, sexual orientation, religion and social media popularity) and movie’s popularity scores(metacritic ratings,imdb score)</i>
 
 <b>Tools used: SQL, Python, Tableau</b>
 
@@ -31,8 +31,10 @@ This project supports the development of data visualization tools for Conflict M
 
 #### <u>Recommending industry jobs with machine learning</u>
 *We plan to apply machine learning (ML) techniques using job advertisement and recruitment data to enhance the search strategy of candidates and help them to identify the gap between the job post requirement and their current ability. We expand current research by focusing on the role of the predictive character that hard and soft skills have over specific industry jobs among the same job domain. We extend prior research on job market analysis by using automated techniques of ML, using the soft skill in our dictionary, and by proposing a user interface for job-seekers.*
-Tools used: Python{Sklearn, matplotlib}, LateX
-Skills: Machine Learning{Supervised learning}
+
+<b> Tools used: Python{Sklearn, matplotlib}, LateX </b>
+
+<b>Skills: Machine Learning{Supervised learning} </b>
 
 
 <!-- Note: this is how to write a comment in HTML. Everything in here won't show up on your webpage.-->
