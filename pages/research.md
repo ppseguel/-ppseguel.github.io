@@ -18,7 +18,7 @@ Here are some sample projects of my work as a Master Student at UT Austin.
 
 <b>Team members: Gaurav Gul Lalwani </b>
 
-[[click here for the report of our project]]({{ BASE_PATH}}/pages/working_papers/Datawrangling.pdf)
+[[click here for the report of our project]({{ BASE_PATH}}/pages/working_papers/Datawrangling.pdf)]
 
 #### <u>Visualizing conflict of interest in medical publishing</u>
 <b>Tools used: R{Shiny App, igraph, VizNetwork}, SQL</b>
