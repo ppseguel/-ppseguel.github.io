@@ -18,7 +18,7 @@ Here are some sample projects of my work as a Master Student at UT Austin.
 
 <b>Team members: Gaurav Gul Lalwani </b>
 
-[click here for the report of our project]({{ BASE_PATH}}/pages/working_papers/Datawrangling.pdf)
+[[click here for the report of our project]]({{ BASE_PATH}}/pages/working_papers/Datawrangling.pdf)
 
 #### <u>Visualizing conflict of interest in medical publishing</u>
 <b>Tools used: R{Shiny App, igraph, VizNetwork}, SQL</b>
@@ -30,7 +30,7 @@ Here are some sample projects of my work as a Master Student at UT Austin.
 
 <b>Team members: Louis Dongwook, Dr. Scott Graham, Dr. Paul Toprac </b>
 
-[<a href="http://129.114.17.166/visnetwork/">[click here to try the prototype]</a>]
+[<a href="http://129.114.17.166/visnetwork/">click here to try the prototype</a>]
 
 
 #### <u>Recommending industry jobs with machine learning</u>
