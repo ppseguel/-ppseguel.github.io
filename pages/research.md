@@ -30,7 +30,7 @@ Here are some sample projects of my work as a Master Student at UT Austin.
 
 <b>Team members: Louis Dongwook, Dr. Scott Graham, Dr. Paul Toprac </b>
 
-[<a href="http://129.114.17.166/visnetwork/">click here to try the prototype</a>]
+[<a href="http://129.114.17.166/visnetwork/">[click here to try the prototype]</a>]
 
 
 #### <u>Recommending industry jobs with machine learning</u>
