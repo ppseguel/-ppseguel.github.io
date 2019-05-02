@@ -1,6 +1,6 @@
 ---
 layout: frontpage
-title: Pedro Seguel Varas
+title: Pedro Seguel
 description: Pedro is a Master Student at UT Austin, and soon will start his PhD at McGill University.
 keywords: Coordination, Socio-technical, Information Systems, Organization, Future of Work, Online-communities
 ---
