@@ -52,6 +52,8 @@ Here are some sample projects of my work as a Master Student at UT Austin.
 
 
 [[click here for the report of our project]({{ BASE_PATH}}/pages/working_papers/Outline_Seguel_Wei.pdf)]
+[<a href="https://youtu.be/qFGBhNw67J8">click here to see the video</a>]
+
 
 #### <u>Analyzing Texas politics through twits</u>
 <b> Tools used: Python, Twitter's API </b>
