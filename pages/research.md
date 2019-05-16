@@ -51,8 +51,10 @@ Here are some sample projects of my work as a Master Student at UT Austin.
 <b>Course: Introduction to Machine Learning</b>
 
 
-[[click here for the report of our project]({{ BASE_PATH}}/pages/working_papers/Outline_Seguel_Wei.pdf)]
+[[click here for the report of our project]({{ BASE_PATH}}/pages/working_papers/Final_Seguel_Wei.pdf)]
 [<a href="https://youtu.be/qFGBhNw67J8">click here to see the video</a>]
+[<a href="https://github.com/ppseguel/jobskillmatching">click here to see the Repository</a>]
+
 
 
 #### <u>Analyzing Texas politics through twits</u>
